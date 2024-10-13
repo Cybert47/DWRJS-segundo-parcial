@@ -1,0 +1,19 @@
+Calificación segundo parcial:
+
+Requisitos funcionales: 
+
+1. agregar lista principal usando el servicio FetchMealByFirstLetter valor (1.5) -> 1.5 OK
+2. agregar pagina de detalles usando servivio FetchMealById valor (1.5) -> 1.5 OK
+3. agregar funcionalidad de busqueda usando servicio SearchMealByName valor (2) -> 2 OK
+
+Requisitos técnicos:
+
+1. se evaluara el manejo del estado para esto usted podra usar(useContext, customHook, useReducer) -> No cumple - 0.2
+2. se evaluara la correcta segregación y composición de componentes con la estructura de carpetas correspondiente -> No cumple - 0.2
+
+Notas: para cada componente se debe crear una carpeta en donde contenga el componente y los estilos del componente ademas de sus test unitarios, los mismo con las paginas, se esta implementando el contexto como un hook, este guarda y extiende el estado si el proosito es tener acciones lo mejor sera crear un customHook o un 
+
+Nota final: 4.6
+
+
+Buen trabajo!
